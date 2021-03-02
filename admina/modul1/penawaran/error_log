@@ -1,0 +1,22 @@
+[22-Feb-2021 12:22:47 UTC] PHP Notice:  Undefined variable: datatable in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_data.php on line 27
+[22-Feb-2021 12:23:46 UTC] PHP Notice:  Undefined variable: datatable in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_data.php on line 27
+[23-Feb-2021 05:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php on line 9
+[23-Feb-2021 08:23:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php on line 9
+[23-Feb-2021 08:32:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php on line 9
+[23-Feb-2021 08:38:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php on line 9
+[23-Feb-2021 08:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bobaindo/apps.boba-indonesia.id/admina/modul/penawaran/penawaran_edit.php on line 9

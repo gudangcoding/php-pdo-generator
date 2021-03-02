@@ -1,0 +1,9 @@
+[24-Feb-2021 05:28:13 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 27
+[24-Feb-2021 05:29:12 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 27
+[24-Feb-2021 05:29:25 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 27
+[24-Feb-2021 05:38:10 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 27
+[24-Feb-2021 05:40:08 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 27
+[24-Feb-2021 05:42:33 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 27
+[24-Feb-2021 05:43:43 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 27
+[24-Feb-2021 05:46:36 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 27
+[24-Feb-2021 05:47:37 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/bobaindo/apps.boba-indonesia.id/admina/modul/armada/armada_data.php on line 29

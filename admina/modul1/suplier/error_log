@@ -1,0 +1,12 @@
+[22-Feb-2021 12:23:43 UTC] PHP Notice:  Undefined variable: datatable in /home/bobaindo/apps.boba-indonesia.id/admina/modul/suplier/suplier_data.php on line 42
+[26-Feb-2021 14:07:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/apps.boba-indonesia.id/admina/modul/suplier/suplier_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bobaindo/apps.boba-indonesia.id/admina/modul/suplier/suplier_edit.php on line 9
+[26-Feb-2021 14:13:57 UTC] PHP Notice:  Undefined index: id in /home/bobaindo/apps.boba-indonesia.id/admina/modul/suplier/suplier_action.php on line 53
+[26-Feb-2021 14:28:29 UTC] PHP Notice:  Undefined index: id in /home/bobaindo/apps.boba-indonesia.id/admina/modul/suplier/suplier_action.php on line 53
+[26-Feb-2021 14:28:45 UTC] PHP Notice:  Undefined index: id in /home/bobaindo/apps.boba-indonesia.id/admina/modul/suplier/suplier_action.php on line 53
+[26-Feb-2021 14:29:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/apps.boba-indonesia.id/admina/modul/suplier/suplier_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bobaindo/apps.boba-indonesia.id/admina/modul/suplier/suplier_edit.php on line 9

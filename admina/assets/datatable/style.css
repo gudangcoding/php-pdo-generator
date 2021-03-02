@@ -1,0 +1,39 @@
+@media(min-width: 321px) and (max-width: 1920px){
+	section#box-profile{
+		width: 90%;
+		height: 630px;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 30px;
+	}
+	.menu-mobile{
+		top:20px;
+		right:10%;
+		display:inline-block;
+	}
+	nav ul{
+		display: none;
+		right: 0;
+		width: 100%;
+		text-align: center;
+		top:43px;
+		z-index: 99;
+	}
+	nav ul li{
+		float: unset;
+		margin: 0;
+		padding-top: 10px;
+		padding-bottom:10px;
+	}
+	.description{
+		padding-left: 0px;
+		width: 100%;
+		text-align: center;
+		margin-left: 0;
+		border: none;
+	}
+	.description .button{
+		margin-right: 10px;
+		margin-left: 10px;
+	}
+}

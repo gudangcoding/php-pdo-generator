@@ -1,0 +1,155 @@
+
+                <!-- Content Header (Page header) -->
+                <section class="content-header">
+                    <h1>
+                        Manage Status
+                    </h1>
+                        <ol class="breadcrumb">
+                        <li><a href="<?=base_index();?>"><i class="fa fa-dashboard"></i> Home</a></li>
+                        <li><a href="<?=base_index();?>status">Status</a></li>
+                        <li class="active">Status List</li>
+                    </ol>
+                </section>
+
+                <!-- Main content -->
+                <section class="content">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="box">
+                                <div class="box-header">
+                                <h3 class="box-title">List Status</h3>
+                                </div><!-- /.box-header -->
+                                <div class="box-body table-responsive">
+                                  <?php 
+                                      foreach ($db->fetch_all("sys_menu") as $isi) {
+                                        if ($path_url==$isi->url) {
+                                            if ($role_act["insert_act"]=="Y") {
+                                      ?>
+                                      <a onclick="tambah()" class="btn btn-primary "><i class="fa fa-plus"></i> Tambah</a>
+                                     <hr>
+                                  <?php
+                                  } 
+                                  } 
+                                  }
+                                   ?>
+                                    <table id="dtb_status" class="table table-bordered table-striped">
+                                   <thead>
+                                     <tr>
+
+			                        <th>Modul</th>
+            									<th>Nama Status</th>
+            									<th>Deskripsi</th>
+			                        <th>Urutan</th>
+																
+			                        <th>Action</th>
+			                         
+			                        </tr>
+                                      </thead>
+                                        <tbody>
+                                        </tbody>
+                                    </table>
+                                </div><!-- /.box-body -->
+                            </div><!-- /.box -->
+                        </div>
+                    </div>
+        <?php
+             
+  foreach ($db->fetch_all("sys_menu") as $isi) {
+
+  //jika url = url dari table menu
+  if ($path_url==$isi->url) {
+    //check edit permission
+  if ($role_act["up_act"]=="Y") {
+  $edit = '<a href="'.base_index()."status/edit/'+aData[indek]+'".'" class="btn btn-xs btn-primary"><i class="fa fa-pencil"></i></a>';
+  } else {
+    $edit ="";
+  }
+  if ($role_act['del_act']=='Y') {
+   $del = "<span data-id='+aData[indek]+' data-uri=".base_admin()."modul/status/status_action.php".' class="btn btn-xs btn-danger hapus "><i class="fa fa-trash"></i></span>';
+  } else {
+    $del="";
+  }
+                   } 
+  }
+  
+?>  
+                </section><!-- /.content -->
+        <script type="text/javascript">
+var dataTable = $("#dtb_status").dataTable({
+           "fnCreatedRow": function( nRow, aData, iDataIndex ) {
+            var indek = aData.length-1;           
+     $('td:eq('+indek+')', nRow).html(' <a href="<?=base_index();?>status/detail/'+aData[indek]+'" class="btn btn-xs btn-success "><i class="fa fa-eye"></i></a> <?=$edit;?> <?=$del;?>');
+       $(nRow).attr('id', 'line_'+aData[indek]);
+   },
+           'bProcessing': true,
+            'bServerSide': true,
+        'sAjaxSource': '<?=base_admin();?>modul/status/status_data.php',
+         /*     'aoColumnDefs': [{
+                'bSortable': false,
+                'aTargets': [0]
+            }]*/
+        });
+
+         function kosong() {
+        $("#id").val("");
+        $("#modul").val("");
+        $("#nm_status").val("");
+        $("#deskripsi").val("");
+        $("#urutan").val("");
+    }
+
+      function tambah() {
+        $("#modal-status").modal('show');
+        kosong();
+        $(".modal-title");
+    }
+      </script>
+
+        <div class="modal fade" id="modal-status">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Form Status</h4>
+              </div>
+              <div class="modal-body">
+                <form id="input" method="post" class="form-horizontal foto_banyak" action="<?=base_admin();?>modul/status/status_action.php?act=in">
+                      <div class="form-group">
+                        <label for="modul" class="control-label col-lg-2">modul</label>
+                        <div class="col-lg-10">
+                          <select name="modul" id="modul" data-placeholder="Pilih modul ..." class="form-control chzn-select" tabindex="2" required>
+               <option value=""></option>
+               <option>Status Muatan</option>
+               <option>Status Tagihan</option>
+              
+              </select>
+                        </div>
+                      </div><!-- /.form-group -->
+<div class="form-group">
+                        <label for="Nama Status" class="control-label col-lg-2">Status</label>
+                        <div class="col-lg-10">
+                          <input type="text" name="nm_status" id="nm_status" placeholder="Nama Status" class="form-control" required> 
+                        </div>
+                      </div><!-- /.form-group -->
+<div class="form-group">
+                        <label for="Deskripsi" class="control-label col-lg-2">Deskripsi</label>
+                        <div class="col-lg-10">
+                          <input type="text" name="deskripsi" id="deskripsi" placeholder="Deskripsi" class="form-control" required> 
+                        </div>
+                      </div><!-- /.form-group -->
+                      <div class="form-group">
+                        <label for="Urutan" class="control-label col-lg-2">Urutan</label>
+                        <div class="col-lg-10">
+                          <input type="number" name="urutan" id="urutan" placeholder="Urutan" class="form-control" required> 
+                        </div>
+                      </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Batal</button>
+                <button type="submit" class="btn btn-primary">Simpan</button>
+              </div>
+            </div>
+          </div>
+          </form>
+        </div>  
+            

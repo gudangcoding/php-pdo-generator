@@ -1,0 +1,94 @@
+
+                <!-- Content Header (Page header) -->
+                <section class="content-header">
+                    <h1>
+                        Manage Armada LTL Detail
+                    </h1>
+                        <ol class="breadcrumb">
+                        <li><a href="<?=base_index();?>"><i class="fa fa-dashboard"></i> Home</a></li>
+                        <li><a href="<?=base_index();?>armada-ltl-detail">Armada LTL Detail</a></li>
+                        <li class="active">Armada LTL Detail List</li>
+                    </ol>
+                </section>
+
+                <!-- Main content -->
+                <section class="content">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="box">
+                                <div class="box-header">
+                                <h3 class="box-title">List Armada LTL Detail</h3>
+                                </div><!-- /.box-header -->
+                                <div class="box-body table-responsive">
+                                    <table id="dtb_armada_ltl_detail" class="table table-bordered table-striped">
+                                   <thead>
+                                     <tr>
+
+                          <th>DN No</th>
+													<th>Vendor</th>
+													<th>No Pol</th>
+													<th>Driver</th>
+													<th>Hp Driver</th>
+													<th>Co Driver</th>
+													<th>HP Co Driver1</th>
+													<th>Remark</th>
+													<th>Nama Perusahaan</th>
+													
+                          <th>Action</th>
+                         
+                        </tr>
+                                      </thead>
+                                        <tbody>
+                                        </tbody>
+                                    </table>
+                                </div><!-- /.box-body -->
+                            </div><!-- /.box -->
+                        </div>
+                    </div>
+        <?php
+       foreach ($db->fetch_all("sys_menu") as $isi) {
+                      if ($path_url==$isi->url) {
+                          if ($role_act["insert_act"]=="Y") {
+                    ?>
+          <a href="<?=base_index();?>armada-ltl-detail/tambah" class="btn btn-primary btn-flat"><i class="fa fa-plus"></i> Tambah</a>
+                          <?php
+                          } 
+                       } 
+}
+      
+  foreach ($db->fetch_all("sys_menu") as $isi) {
+
+  //jika url = url dari table menu
+  if ($path_url==$isi->url) {
+    //check edit permission
+  if ($role_act["up_act"]=="Y") {
+  $edit = '<a href="'.base_index()."armada-ltl-detail/edit/'+aData[indek]+'".'" class="btn btn-primary btn-flat"><i class="fa fa-pencil"></i></a>';
+  } else {
+    $edit ="";
+  }
+  if ($role_act['del_act']=='Y') {
+   $del = "<span data-id='+aData[indek]+' data-uri=".base_admin()."modul/armada_ltl_detail/armada_ltl_detail_action.php".' class="btn btn-danger hapus btn-flat"><i class="fa fa-trash"></i></span>';
+  } else {
+    $del="";
+  }
+                   } 
+  }
+  
+?>  
+                </section><!-- /.content -->
+        <script type="text/javascript">
+var dataTable = $("#dtb_armada_ltl_detail").dataTable({
+           "fnCreatedRow": function( nRow, aData, iDataIndex ) {
+            var indek = aData.length-1;           
+     $('td:eq('+indek+')', nRow).html(' <a href="<?=base_index();?>armada-ltl-detail/detail/'+aData[indek]+'" class="btn btn-success btn-flat"><i class="fa fa-eye"></i></a> <?=$edit;?> <?=$del;?>');
+       $(nRow).attr('id', 'line_'+aData[indek]);
+   },
+           'bProcessing': true,
+            'bServerSide': true,
+        'sAjaxSource': '<?=base_admin();?>modul/armada_ltl_detail/armada_ltl_detail_data.php',
+         /*     'aoColumnDefs': [{
+                'bSortable': false,
+                'aTargets': [0]
+            }]*/
+        });</script>  
+            

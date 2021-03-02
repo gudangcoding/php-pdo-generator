@@ -1,0 +1,560 @@
+[27-Feb-2021 13:04:05 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 4
+[27-Feb-2021 13:04:05 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 16
+[27-Feb-2021 13:04:05 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 30
+[27-Feb-2021 13:04:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php:7
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php(35): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php on line 7
+[27-Feb-2021 13:04:06 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 4
+[27-Feb-2021 13:04:06 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 16
+[27-Feb-2021 13:04:06 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 30
+[27-Feb-2021 13:04:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php:7
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php(35): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php on line 7
+[27-Feb-2021 13:04:07 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 4
+[27-Feb-2021 13:04:07 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 16
+[27-Feb-2021 13:04:07 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 30
+[27-Feb-2021 13:04:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php:7
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php(35): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php on line 7
+[27-Feb-2021 13:05:23 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 4
+[27-Feb-2021 13:05:23 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 16
+[27-Feb-2021 13:05:23 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 30
+[27-Feb-2021 13:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php:7
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php(35): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php on line 7
+[27-Feb-2021 13:05:35 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 4
+[27-Feb-2021 13:05:35 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 16
+[27-Feb-2021 13:05:35 UTC] PHP Notice:  Undefined variable: path_act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php on line 30
+[27-Feb-2021 13:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php:7
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional.php(35): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_view.php on line 7
+[27-Feb-2021 13:05:49 UTC] PHP Notice:  Undefined index: act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 5
+[27-Feb-2021 13:06:46 UTC] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[27-Feb-2021 13:07:22 UTC] PHP Notice:  Undefined property: stdClass::$provinsi_code in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 94
+[27-Feb-2021 13:07:26 UTC] PHP Notice:  Undefined property: stdClass::$provinsi_code in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 94
+[27-Feb-2021 13:07:58 UTC] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[27-Feb-2021 13:21:52 UTC] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[27-Feb-2021 13:25:25 UTC] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[27-Feb-2021 13:45:59 UTC] PHP Notice:  Undefined index: nama_proyek in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 61
+[27-Feb-2021 13:45:59 UTC] PHP Notice:  Undefined index: destination in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 68
+[27-Feb-2021 14:30:34 UTC] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[27-Feb-2021 14:46:54 UTC] PHP Notice:  Undefined index: act in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 5
+[27-Feb-2021 15:04:07 UTC] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[27-Feb-2021 15:04:34 UTC] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[28-Feb-2021 03:05:20 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[28-Feb-2021 04:32:13 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[28-Feb-2021 04:32:20 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[28-Feb-2021 23:23:38 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[28-Feb-2021 23:23:39 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[01-Mar-2021 11:09:32 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[01-Mar-2021 11:09:50 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[01-Mar-2021 11:10:43 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 92
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:40 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:42 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:42 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:15:42 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:27 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:27 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:27 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kolom_nama in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:16:56 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:28 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:30 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:30 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:30 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:30 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:30 Asia/Jakarta] PHP Notice:  Undefined variable: roq in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:30 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_provinsi' of non-object in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 140
+[01-Mar-2021 11:18:49 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 12:05:13 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 12:25:30 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 12:39:53 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 12:42:11 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 12:44:16 Asia/Jakarta] PHP Notice:  Undefined index: destination in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 27
+[01-Mar-2021 12:44:24 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 12:55:28 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_action.php on line 39
+[01-Mar-2021 12:55:28 Asia/Jakarta] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/bobaindo/app.boba-indonesia.id/admina/inc/Database.php on line 219
+[01-Mar-2021 12:55:28 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/bobaindo/app.boba-indonesia.id/admina/inc/Database.php on line 220
+[01-Mar-2021 12:55:28 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/bobaindo/app.boba-indonesia.id/admina/inc/Database.php on line 224
+[01-Mar-2021 12:55:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/bobaindo/app.boba-indonesia.id/admina/inc/Database.php on line 224
+[01-Mar-2021 12:55:28 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/bobaindo/app.boba-indonesia.id/admina/inc/Database.php on line 230
+[01-Mar-2021 12:58:22 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 13:02:55 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
+[01-Mar-2021 06:16:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:16:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:16:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:18:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:18:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:19:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:19:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:19:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:19:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:21:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:21:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'provinsi.province_code' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(18): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:22:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(10): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:23:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(10): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 06:23:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(10): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:13:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(10): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:13:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(10): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:16:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(10): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:16:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(10): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:23:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:23:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:23:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:23:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:24:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:24:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:24:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'legal.nm_legal' in 'field list' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 07:32:32 UTC] PHP Notice:  Undefined index: ltl.req_date in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Iterators/ColumnCollection.php on line 56
+[01-Mar-2021 07:32:32 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Ozdemir\Datatables\Iterators\ColumnCollection::getByName() must be an instance of Ozdemir\Datatables\Column, null returned in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Iterators/ColumnCollection.php:56
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(92): Ozdemir\Datatables\Iterators\ColumnCollection->getByName('ltl.req_date')
+#1 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->edit('ltl.req_date', Object(Closure))
+#2 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Iterators/ColumnCollection.php on line 56
+[01-Mar-2021 07:32:32 UTC] PHP Notice:  Undefined index: ltl.req_date in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Iterators/ColumnCollection.php on line 56
+[01-Mar-2021 07:32:32 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Ozdemir\Datatables\Iterators\ColumnCollection::getByName() must be an instance of Ozdemir\Datatables\Column, null returned in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Iterators/ColumnCollection.php:56
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(92): Ozdemir\Datatables\Iterators\ColumnCollection->getByName('ltl.req_date')
+#1 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(11): Ozdemir\Datatables\Datatables->edit('ltl.req_date', Object(Closure))
+#2 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Iterators/ColumnCollection.php on line 56
+[01-Mar-2021 07:33:10 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:33:10 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:33:19 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:34:40 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:34:47 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:34:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:35:46 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:35:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:35:49 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:02 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:02 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:09 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:09 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:26 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:26 UTC] PHP Notice:  Undefined variable: db in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 07:36:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_custom() on null in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php:65
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(5): include()
+#1 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 65
+[01-Mar-2021 08:04:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ltl.id_customer' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(20): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 08:04:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ltl.id_customer' in 'on clause' in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php:70
+Stack trace:
+#0 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php(70): PDOStatement->execute(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(242): Ozdemir\Datatables\DB\MySQL->count(Object(Ozdemir\Datatables\Query))
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(194): Ozdemir\Datatables\Datatables->setResponseData()
+#3 /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php(20): Ozdemir\Datatables\Datatables->generate()
+#4 {main}
+  thrown in /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/DB/MySQL.php on line 70
+[01-Mar-2021 08:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php:8
+Stack trace:
+#0 [internal function]: {closure}(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Column.php(75): call_user_func(Object(Closure), Array)
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(218): Ozdemir\Datatables\Column->value(Array)
+#3 [internal function]: Ozdemir\Datatables\Datatables->Ozdemir\Datatables\{closure}(Object(Ozdemir\Datatables\Column))
+#4 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(219): array_map(Object(Closure), Array)
+#5 [internal function]: Ozdemir\Datatables\Datatables->prepareRowData(Array)
+#6 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(206): array_map(Array, Array)
+#7 /home/bobaindo/app.boba-ind in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php on line 8
+[01-Mar-2021 08:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_index() in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php:8
+Stack trace:
+#0 [internal function]: {closure}(Array)
+#1 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Column.php(75): call_user_func(Object(Closure), Array)
+#2 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(218): Ozdemir\Datatables\Column->value(Array)
+#3 [internal function]: Ozdemir\Datatables\Datatables->Ozdemir\Datatables\{closure}(Object(Ozdemir\Datatables\Column))
+#4 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(219): array_map(Object(Closure), Array)
+#5 [internal function]: Ozdemir\Datatables\Datatables->prepareRowData(Array)
+#6 /home/bobaindo/app.boba-indonesia.id/admina/inc/datatable/vendor/ozdemir/datatables/src/Datatables.php(206): array_map(Array, Array)
+#7 /home/bobaindo/app.boba-ind in /home/bobaindo/app.boba-indonesia.id/admina/modul/dashboard_operasional/dashboard_operasional_data.php on line 8
+[01-Mar-2021 08:28:56 UTC] PHP Warning:  Use of undefined constant DIR_ADMIN - assumed 'DIR_ADMIN' (this will throw an Error in a future version of PHP) in /home/bobaindo/app.boba-indonesia.id/admina/inc/url.php on line 36
+[01-Mar-2021 08:28:56 UTC] PHP Warning:  Use of undefined constant DIR_ADMIN - assumed 'DIR_ADMIN' (this will throw an Error in a future version of PHP) in /home/bobaindo/app.boba-indonesia.id/admina/inc/url.php on line 36
+[01-Mar-2021 08:28:56 UTC] PHP Warning:  Use of undefined constant DIR_ADMIN - assumed 'DIR_ADMIN' (this will throw an Error in a future version of PHP) in /home/bobaindo/app.boba-indonesia.id/admina/inc/url.php on line 36
+[01-Mar-2021 16:46:03 Asia/Jakarta] PHP Notice:  Undefined index: q in /home/bobaindo/app.boba-indonesia.id/admina/inc/fungsi.php on line 138
